@@ -12,7 +12,7 @@ require (
 	github.com/zmap/zcrypto v0.0.0-20220803033029-557f3e4940be
 	go.uber.org/multierr v1.8.0
 	golang.org/x/exp v0.0.0-20221019170559-20944726eadf
-	golang.org/x/sys v0.1.0
+	golang.org/x/sys v0.13.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -25,10 +25,10 @@ require (
 	github.com/weppos/publicsuffix-go v0.15.1-0.20220724114530-e087fba66a37 // indirect
 	github.com/zmap/rc2 v0.0.0-20131011165748-24b9757f5521 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.1.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
-	golang.org/x/tools v0.1.12 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/mod v0.8.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
